@@ -8,7 +8,7 @@ var predatorArr = [];
 var personagre1Arr = [];
 var personagre2Arr = [];
 
-class Matrix {
+ class Matrix {
     constructor(N, M) {
         this.width = M;
         this.height = N;
